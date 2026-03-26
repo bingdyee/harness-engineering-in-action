@@ -1,15 +1,6 @@
-# harness-engineering-in-action
+# Harness Engineering In Action
 
 Harness Engineering: Long-running Autonomous Software Engineering
-
-
-分析以下链接中的内容，输出一份Harness-engineering分享文档，文档最后给出基于 ralph + superpowers 实现harness-engineering的实践：
-1、https://github.com/deusyu/harness-engineering；
-2、https://openai.com/zh-Hans-CN/index/harness-engineering/；
-3、https://tw93.fun/2026-03-21/agent.html；
-4、https://github.com/snarktank/ralph；
-5、https://github.com/obra/superpowers；
-
 
 ```
 AGENTS.md
