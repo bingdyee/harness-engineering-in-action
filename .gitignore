@@ -22,3 +22,10 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+
+.worktrees/
+.private-journal/
+.DS_Store
+node_modules/
+inspo
+triage/
