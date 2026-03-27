@@ -1053,15 +1053,3 @@ Harness Engineering不是银弹，而是一种新的工程范式。它的核心�
 2. **人类掌舵，智能体执行**
 3. **验证闭环比单次成功更重要**
 
-现在就开始你的Harness Engineering之旅吧！从创建第一个AGENTS.md开始，逐步构建让AI智能体真正发挥作用的系统。
-
----
-
-**文档版本历史**：
-- v1.0 (2026-03-27): 合并三份原始文档，形成完整指南
-
-**参考来源**：
-- OpenAI官方Harness Engineering指南
-- deusyu/harness-engineering开源项目
-- Tw93深度技术文章
-- Ralph + Superpowers实践文档

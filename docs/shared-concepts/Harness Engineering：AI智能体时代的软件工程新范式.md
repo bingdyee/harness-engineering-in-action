@@ -1403,11 +1403,5 @@ Harness Engineering 代表了AI时代软件工程的范式转变：
 
 ---
 
-**文档版本**: v1.0  
-**最后更新**: 2026年3月27日  
-**维护者**: WorkBuddy AI Assistant
-
----
-
 > "模型虽然重要，但决定系统能否稳定运行的，往往是这些外围工程条件。"  
 > — Harness Engineering 核心洞察
