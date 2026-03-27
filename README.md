@@ -96,5 +96,5 @@ Ralph will:
 
 ## References
 
-[OpenAI — Harness Engineering: Harnessing Codex in an Agent-First World](https://openai.com/zh-Hans-CN/index/harness-engineering/)
-[Ralph Loop](https://github.com/snarktank/ralph)
+- [OpenAI — Harness Engineering: Harnessing Codex in an Agent-First World](https://openai.com/zh-Hans-CN/index/harness-engineering/)
+- [Ralph Loop](https://github.com/snarktank/ralph)

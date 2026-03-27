@@ -1046,7 +1046,7 @@ Level 3 实施检查:
 Harness Engineering不是银弹，而是一种新的工程范式。它的核心价值在于：
 
 > **让工程师从"写代码"解放出来，转向"设计系统"——这才是AI时代软件工程师的核心竞争力。**
-> **Rules + 渐进式披露 + GIT Worktree + Agent Loop**
+> **"Rules" + 渐进式披露 + GIT Worktree + Agent Loop**
 
 记住三个关键点：
 
